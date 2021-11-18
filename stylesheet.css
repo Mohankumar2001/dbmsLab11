@@ -1,0 +1,51 @@
+body{
+    background-image: 'library.jpg';
+    background-repeat: none;
+    /*background-color: rgb(108, 168, 128); */
+    color: rgb(19, 14, 14);
+}
+
+h1{
+    text-align:center;
+}
+input{
+    background-color :darkgrey; 
+    color: black;
+}
+ 
+input{
+    padding:3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form{
+    
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+}
+input[type=text] {
+    width: 80%;
+    box-sizing: border-box;  
+}
+
+a{
+    text-decoration-thickness: 1px ;
+    color: black;
+}
+#father { 
+    padding: 70px;
+    padding-top: 20px;
+    margin: 35%;
+    margin-top:50px;
+    height:fit-content;
+    border-style: solid;
+    border-color: rgb(17, 24, 17);
+ }
+ 
+
+
